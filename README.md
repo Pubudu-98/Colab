@@ -48,16 +48,12 @@ Contributions are welcome! If you'd like to contribute:
 3. Commit your changes and push them to your forked repository.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code with proper attribution.
-
 ## Contact
 
 For any questions, suggestions, or collaboration opportunities, feel free to reach out to:
 
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: pubudu.piyumalmv@gmail.com
+- **GitHub**: [Pubudu-98](https://github.com/Pubudu-98)
 
 ---
 
