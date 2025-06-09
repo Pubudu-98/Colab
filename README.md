@@ -1,4 +1,4 @@
-# colab repo: Machine Learning Concepts
+# Machine Learning Concepts
 
 Welcome to the **COLAB** repository! This repo is dedicated to exploring and understanding key concepts in Machine Learning (ML) using Python. The materials here are intended for self-paced learning, experimentation, and hands-on practice.
 
